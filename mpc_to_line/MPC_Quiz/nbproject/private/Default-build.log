@@ -1,0 +1,9 @@
+[ 50%] Building CXX object CMakeFiles/q1.dir/src/MPC.cpp.o
+/home/merbar/git/CarND-MPC-Quizzes/mpc_to_line/src/MPC.cpp:2:25: fatal error: cppad/cppad.h: No such file or directory
+compilation terminated.
+CMakeFiles/q1.dir/build.make:62: recipe for target 'CMakeFiles/q1.dir/src/MPC.cpp.o' failed
+make[2]: *** [CMakeFiles/q1.dir/src/MPC.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/q1.dir/all' failed
+make[1]: *** [CMakeFiles/q1.dir/all] Error 2
+Makefile:83: recipe for target 'all' failed
+make: *** [all] Error 2

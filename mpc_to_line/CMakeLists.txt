@@ -17,4 +17,4 @@ link_directories(/usr/local/lib)
 
 add_executable(q1 ${sources})
 
-target_link_libraries(q1 ipopt python)
+target_link_libraries(q1 ipopt python2.7)
